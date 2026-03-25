@@ -16,8 +16,10 @@ Responder a perguntas de negócio complexas, como:
 
 ## 📸 Imagens do Projeto
 
-![Visão Geral](Performance.png)
-![Análise de Promoções](AnalisedePromoçoes.png)
-![Detalhamento](Detalhamento.png)
+![Visão Geral](Home.PNG)
+![Performance](Performance.PNG)
+![Análise de Promoções](Analise%20de%20Promoçoes.PNG)
+![Detalhamento](Detalhamento.PNG)
 ## 📂 Como acessar
-Você pode visualizar o relatório completo em formato PDF [clicando aqui](![dashboard-vendas-powerbi.pdf]) ou baixar o arquivo `.pbix` para interagir com os dados no Power BI Desktop.
+
+Você pode visualizar o relatório completo em formato PDF [clicando aqui](dashboard-vendas-powerbi.pdf) ou baixar o arquivo `.pbix` para interagir com os dados no Power BI Desktop.
